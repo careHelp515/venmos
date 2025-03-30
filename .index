@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Venmo Support: Official Help & Assistance</title>
+  <meta name="description" content="Get expert support for Venmo issues, transactions, and account management.">
+  <meta name="robots" content="index, follow">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Venmo Support</h1>
+    <p>Independent third-party service provider offering Venmo account support, troubleshooting, and help with transactions.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#support">Support</a></li>
+      <li><a href="#faq">FAQs</a></li>
+      <li><a href="#terms">Terms of Service</a></li>
+      <li><a href="#privacy">Privacy Policy</a></li>
+      <li><a href="#contact">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <section id="support">
+    <h2>Venmo Support Services</h2>
+    <p>We provide expert assistance with Venmo accounts, transactions, and more. Contact us today for help!</p>
+  </section>
+
+  <section id="faq">
+    <h2>FAQs</h2>
+    <ul>
+      <li><strong>How do I reset my Venmo password?</strong> - Follow our step-by-step guide on the support page.</li>
+      <li><strong>How do I handle a failed transaction?</strong> - We provide troubleshooting to ensure your transactions go smoothly.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Venmo Support - All rights reserved.</p>
+    <p>Disclaimer: We are an independent third-party service and are not affiliated with Venmo or PayPal.</p>
+  </footer>
+</body>
+</html>
